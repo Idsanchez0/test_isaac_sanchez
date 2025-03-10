@@ -1,0 +1,17 @@
+{
+  "welcome": "Welcome to QRScan",
+  "security": "Take care of your passwords, do not share them with anyone.",
+  "biometric": "Biometric",
+  "code": "Code",
+  "linkedIn": "LinkedIn",
+  "whatsapp": "WhatsApp",
+  "web": "Web",
+  "register": "Register your PIN",
+  "input": "Enter your PIN",
+  "message": "If this is the first time you log in please register a new PIN",
+  "error": "Error validating the PIN please try again",
+  "scanner": "QR Scanner",
+  "languages": "Languages",
+  "spanish": "Spanish - ES",
+  "english": "English - EN"
+}
