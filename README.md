@@ -15,3 +15,6 @@ Sigue estos pasos para correr la aplicación en tu entorno local:
 1. Clona el repositorio
 2. Instala dependenvcias con: flutter pub get
 3. Ejecuta la aplicación con : flutter run
+
+## 📱 Evidencia iOS  
+https://we.tl/t-t4OsTONv9P
